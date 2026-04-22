@@ -1,0 +1,59 @@
+
+/* This is my main css file for my portfolio website */
+
+body {
+    background-color:bisque;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    /* text-indent: 50px; */
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    color:blueviolet;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+} 
+h2 {
+    color:rgb(96, 194, 230);
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.imgPos{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid rgb(26, 11, 13);
+    width: 150px; 
+    height: auto;
+    border: 5px solid blueviolet;
+}
+#aboutText {
+    color: rgb(185, 131, 236);
+    text-align:center;
+    width: 600px; 
+    margin:20px auto 20px auto; 
+    font-weight: normal;
+    font-size: 100%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+.links {
+    text-align: center;
+}
+/* nav li { 
+    display:flex;
+    padding: 10px;
+    margin: 10px;
+    color:aqua;
+    background:gray;
+} 
+a:hover {
+   color:rgb(24, 215, 126)
+}
+   */
+
+
